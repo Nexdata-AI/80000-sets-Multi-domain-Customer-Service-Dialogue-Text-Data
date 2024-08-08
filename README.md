@@ -3,7 +3,7 @@
 ## Description
 Multi-domain Customer Service Dialogue Text Data, 90,000 sets in total; spanning multiple domains, including telecommunications, e-commerce, and financial, lifestyle, business, education, healthcare, and entertainment; Each set of data consists of single or multi-turn conversations; this dataset can be used for tasks such as LLM training, chatgpt
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1396?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/llm/1396?source=Github
 
 
 ## Data content
